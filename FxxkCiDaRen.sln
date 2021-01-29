@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FxxkCiDaRen", "FxxkCiDaRen.csproj", "{8166B6A2-CDE2-45CE-A814-02BB1407BF8F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoogleTranslateFreeApi", "GoogleTranslateFreeApi\GoogleTranslateFreeApi.csproj", "{ABD08D6B-3111-4290-8141-D424B335DD50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8166B6A2-CDE2-45CE-A814-02BB1407BF8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8166B6A2-CDE2-45CE-A814-02BB1407BF8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8166B6A2-CDE2-45CE-A814-02BB1407BF8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8166B6A2-CDE2-45CE-A814-02BB1407BF8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABD08D6B-3111-4290-8141-D424B335DD50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABD08D6B-3111-4290-8141-D424B335DD50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABD08D6B-3111-4290-8141-D424B335DD50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABD08D6B-3111-4290-8141-D424B335DD50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28E06C79-024E-41BD-BC9C-CDFF07B8C22F}
+	EndGlobalSection
+EndGlobal
